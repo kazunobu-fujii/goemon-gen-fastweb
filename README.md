@@ -1,2 +1,3 @@
 # goemon-gen-fastweb
-goemon recipe generator
+goemon + Ace + GCSS = fast web development
+
