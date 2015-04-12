@@ -163,7 +163,8 @@ func main() {
 	fmt.Fprintln(os.Stderr, "  go get github.com/yosssi/gcss/cmd/gcss")
 	fmt.Fprintln(os.Stderr, "")
 	fmt.Fprintln(os.Stderr, "run command")
-	fmt.Fprintln(os.Stderr, "  touch assets/*")
 	fmt.Fprintln(os.Stderr, "  goemon go run main.go")
+	fmt.Fprintln(os.Stderr, "  touch assets/*")
+	fmt.Fprintln(os.Stderr, "  open http://localhost:8080/sample.html")
 	fmt.Fprintln(os.Stderr, "")
 }
